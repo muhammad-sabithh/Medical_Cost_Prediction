@@ -24,4 +24,4 @@ This project uses regression analysis to predict medical insurance charges based
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Medical_Cost_Prediction.git
+   git clone https://github.com/muhammad-sabithh/Medical_Cost_Prediction.git
